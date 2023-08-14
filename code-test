@@ -146,3 +146,5 @@ resource "aws_security_group" "SG" {
     Name = "cust_sg"
   }
 }
+
+
